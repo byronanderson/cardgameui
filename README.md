@@ -1,2 +1,0 @@
-# cardgameui
-Created with CodeSandbox
